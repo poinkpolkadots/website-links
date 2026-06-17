@@ -16,6 +16,12 @@ h1 {
     color: #484D6D;
 }
 
+h3 {
+    font-size: 12pt;
+    color: #484D6D;
+    font-weight: bold;
+}
+
 p {
     font-weight: bold;
     color: #28DA60;
