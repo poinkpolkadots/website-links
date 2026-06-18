@@ -14,6 +14,7 @@ main {
 h1 {
     font-weight: bolder;
     color: #484D6D;
+    text-decoration: #28DA60 wavy underline;
 }
 
 h3 {
